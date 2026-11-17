@@ -40,7 +40,7 @@ I'm passionate about **Machine Learning**, **Data Science**, and **AI**. I love 
 ---
 
 ### 📫 How to reach me:
-- GitHub: [https://github.com/shishirroy]
+- GitHub: [https://github.com/Shishir-Roy01]
 - Email: shishirroy574@gmail.com
 
 ---
